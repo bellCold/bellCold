@@ -1,6 +1,6 @@
 안녕하세요. 👋
 
-저는 현재 Spring을즐겨 사용하는 Backend 개발자 입니다.
+저는 현재 Spring을 즐겨 사용하는 Backend 개발자 입니다.
 
 최근 MSA에 대한 관심도가 높아 Spring Webflux와 Kafka를 이용한 서비스간의 데이터 통신에 지속적인 학습을 하고있습니다.
 
